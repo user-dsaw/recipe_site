@@ -1,0 +1,20 @@
+*{
+  /* color: goldenrod; */
+  background-color: rgba(0, 0, 0, 0.857);
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+
+
+.intro{
+  color: goldenrod;
+}
+
+
+
+img {
+  height: auto;
+  width: 500px;
+}
